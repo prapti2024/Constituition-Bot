@@ -1,0 +1,8 @@
+.env
+.venv/
+logs/
+__pycache__/
+DATA/invalid-data/empty_pdf.pdf
+DATA/invalid-data/loremipsum.pdf
+DATA/valid_data/constituition.pdf
+DATA/valid_data/constitution_raw.txt
