@@ -5,6 +5,9 @@ QDRANT_API_KEY="QDRANT_API_KEY"
 QDRANT_URL="QDRANT_URL"
 QDRANT_COLLECTION="Constituition-Bot"
 
+
+CLEANED_FILENAME="D:/Constituition-Bot/DATA/valid_data/constitution_raw.txt"
+
     
 
 
